@@ -11,3 +11,17 @@ https://pastebin.com/kc8nWayt
 
 - Watched Youtube video on bubble sort(Apna College)
 - Watched Youtube video on insertion sort(Jenny)
+
+### Day 2
+[08] [30], 2023
+
+- Codeforces(Watermelon)
+https://codeforces.com/contest/4/submission/221065653
+
+- Watched video on Strings from course of Luv Babbar 
+
+- Codeforces(Waytoolongword)
+https://codeforces.com/contest/71/submission/221140632
+
+- Recursion practice
+https://pastebin.com/K1HjbgXZ
