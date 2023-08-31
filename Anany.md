@@ -25,3 +25,12 @@ https://codeforces.com/contest/71/submission/221140632
 
 - Recursion practice
 https://pastebin.com/K1HjbgXZ
+
+### Day 3
+[08] [31], 2023
+
+- Codeforces(Theatre Square)
+https://codeforces.com/contest/1/submission/221277613
+
+- Watched Pattern Printing from Luv Babbar Course
+
