@@ -34,3 +34,16 @@ https://codeforces.com/contest/1/submission/221277613
 
 - Watched Pattern Printing from Luv Babbar Course
 
+### Day 4
+[09] [01],2023
+
+- Codeforces(Next Round)
+https://codeforces.com/contest/158/submission/221444975 
+
+- Codeforces(Bit++)
+https://codeforces.com/contest/282/submission/221451974
+
+- Codeforces(Beautiful Matrix)
+https://codeforces.com/contest/263/submission/221458486
+
+
