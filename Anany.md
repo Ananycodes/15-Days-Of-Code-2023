@@ -50,5 +50,15 @@ https://codeforces.com/contest/263/submission/221458486
 [09] [02],2023
 - Array(duplicates):https://pastebin.com/RwiGyyM2
 - Watched Array from Luv Babbar course 
+
+### Day 6
+[09] [03], 2023
+
+- Codeforces(Bear and Big Brother)
+https://codeforces.com/contest/791/submission/221660606
+
+- Codeforces(Soldier and Bananas)
+https://codeforces.com/contest/546/submission/221662177
+
  
 
