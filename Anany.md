@@ -60,5 +60,18 @@ https://codeforces.com/contest/791/submission/221660606
 - Codeforces(Soldier and Bananas)
 https://codeforces.com/contest/546/submission/221662177
 
+### Day 7
+[09] [04],2023
+
+- Codeforces(Elephant)
+https://codeforces.com/contest/617/submission/221822422
+
+- Codeforces(Young Physicist)
+https://codeforces.com/contest/69/submission/221852931
+
+- Codeforces(Wrong Subtraction)
+https://codeforces.com/contest/977/submission/221854218
+
+
  
 
