@@ -72,6 +72,14 @@ https://codeforces.com/contest/69/submission/221852931
 - Codeforces(Wrong Subtraction)
 https://codeforces.com/contest/977/submission/221854218
 
+### Day 8
+[09] [05],2023
+
+- Watched functions from Luv Babbar 
+
+- Codeforces(Domino Piling)
+https://codeforces.com/contest/50/submission/221980558
+
 
  
 
