@@ -80,6 +80,11 @@ https://codeforces.com/contest/977/submission/221854218
 - Codeforces(Domino Piling)
 https://codeforces.com/contest/50/submission/221980558
 
+### Day 9
+[09] [06],2023
+
+- Watched STL video on youtube by Love Babbar
+
 
  
 
