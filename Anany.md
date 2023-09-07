@@ -85,6 +85,13 @@ https://codeforces.com/contest/50/submission/221980558
 
 - Watched STL video on youtube by Love Babbar
 
+### Day 10
+[09] [07],2023
+
+- Codeforces(Drinks)
+https://codeforces.com/contest/200/submission/222187063
+
+
 
  
 
