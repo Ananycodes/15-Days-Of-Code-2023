@@ -96,6 +96,9 @@ https://codeforces.com/contest/200/submission/222187063
 
 - Watched Pass by value and reference and array from Babbar
 
+- Implementation of some basic Linked List programs
+https://pastebin.com/HZEvqWnw
+https://pastebin.com/B6G1PTzp
 
 
 
