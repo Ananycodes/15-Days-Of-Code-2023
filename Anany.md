@@ -100,6 +100,18 @@ https://codeforces.com/contest/200/submission/222187063
 https://pastebin.com/HZEvqWnw
 https://pastebin.com/B6G1PTzp
 
+### Day 12
+[09] [09],2023
+
+- Codeforces(Team)
+https://codeforces.com/contest/231/submission/222510240
+
+- Codeforces(Petya and Strings)
+https://codeforces.com/contest/112/submission/222515481
+
+- Codeforces(Helpful Maths)
+https://codeforces.com/contest/339/submission/222638328
+
 
 
 
