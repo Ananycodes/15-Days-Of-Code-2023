@@ -112,6 +112,12 @@ https://codeforces.com/contest/112/submission/222515481
 - Codeforces(Helpful Maths)
 https://codeforces.com/contest/339/submission/222638328
 
+### Day 13
+[09] [10],2023
+
+From Love Babbar course
+- Watched video on 2 pointer method 
+- watched video on time and space complexity
 
 
 
