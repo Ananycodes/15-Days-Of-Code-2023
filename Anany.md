@@ -119,6 +119,18 @@ From Love Babbar course
 - Watched video on 2 pointer method 
 - watched video on time and space complexity
 
+### Day 14
+[09] [11],2023
+
+- Watched 2D arrays and vector from Love
+
+- Codeforces(Word Capitalization)
+https://codeforces.com/contest/281/submission/222824953
+
+- Codeforces(Boy or Girl)
+https://codeforces.com/contest/236/submission/222827443
+
+
 
 
 
