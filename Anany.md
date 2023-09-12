@@ -130,6 +130,12 @@ https://codeforces.com/contest/281/submission/222824953
 - Codeforces(Boy or Girl)
 https://codeforces.com/contest/236/submission/222827443
 
+### Day 15
+[09] [12],2023
+
+- Watched 4 STL lectures from Luv(Pairs and Vectors)
+
+- Watched problem solving session(Leetcode) on array from Love Babbbar
 
 
 
